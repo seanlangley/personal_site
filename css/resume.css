@@ -148,7 +148,10 @@ a:hover, a:focus, a:active {
   color: #824027;
 }
 
-
 .coursework{
   font-weight: bold;
+}
+.booktitle{
+  font-weight: bold;
+  font-size: 3em;
 }
